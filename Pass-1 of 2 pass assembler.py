@@ -54,7 +54,7 @@ def searchReg(Tok):
     else:   
         return -1    
     
-########  Process 1 token case starts here ########    
+########  Process 1 token case starts here ########   
 def processTok1(Tok):
     global LC, PoolCnt, LitCnt
     Tok = Tok.rstrip("\n")

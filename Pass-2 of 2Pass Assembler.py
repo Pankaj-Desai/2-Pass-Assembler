@@ -1,5 +1,4 @@
 #PASS 2 of TWO-PASS ASSEMBLER
-#Implement pass-II of a two-pass assembler. The output of assignment-1 (intermediate file, symbol and literal table) should be input for this assignment.
 #Global Declarations
 LC = 0
 PoolIndex = 0

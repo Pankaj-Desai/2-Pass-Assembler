@@ -206,5 +206,3 @@ print (PoolTab)
 
 fp1.close()
 fp2.close()
-    
-    

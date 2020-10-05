@@ -1,6 +1,5 @@
 #PASS 1 of TWO-PASS ASSEMBLER
 #Design suitable data structures and implement pass-I of a two-pass assembler. Implementation should consist of a few instructions from each category and few assembler directives.
-
 #Global Declarations
 LC = 0
 PoolCnt = 0
